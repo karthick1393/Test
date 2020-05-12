@@ -10,7 +10,8 @@ import org.testng.annotations.Test;
 
 public class Ant1 {
 	@Test
-	public void test4567(){
+
+	public void test1234(){
 		System.out.println("Test1");
 	}
 	@Test
